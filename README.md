@@ -26,8 +26,7 @@ Whether you're building an NFT-powered brand or entering the Metaverse for the f
 
 ## Socials
 
-- [X]( )  
-- [Instagram](https://www.instagram.com/oval.metaverse/)  
+- [X](https://x.com/ovalnft) 
 - [LinkedIn](https://www.linkedin.com/company/ovalmetaverse/posts/?feedView=all)  
 
 
