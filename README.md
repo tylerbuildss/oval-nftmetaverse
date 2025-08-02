@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ysabowoveluz/oval-nftmetaverse/master/logo.png" alt="Oval NFT Logo" width="150"/>
-</p>
+  <img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/952231ce-3a39-4531-b79d-087f63592187" />
+
 
 # Oval NFT
 
