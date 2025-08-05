@@ -10,7 +10,6 @@ This codebase was originally designed for experimental use cases involving NFT d
 - Solana-based NFT minting and validation  
 - Campaign configuration with token-gated logic  
 - Localization support for international rollouts  
-- Lightweight Android client implementation  
 
 ## Architecture
 
